@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Create an Empty Square """
+my_square = Square()
 
-class Square:
-    ''' creates an empty square'''
-    pass
+print(type(my_square))
+print(my_square._ _ dict _ _)
