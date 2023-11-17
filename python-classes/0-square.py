@@ -1,6 +1,9 @@
-#!/usr/bin/python3
-"""Create an Empty Square """
+#!usr/bin/python3
+"""
+Creates an empty square
+"""
 
-class Square:
+
+class square:
     ''' creates an empty square'''
     pass
