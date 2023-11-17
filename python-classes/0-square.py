@@ -1,9 +1,6 @@
 #!/usr/bin/python3
-my_square = Square()
+"""Create an Empty Square """
 
-print(type(my_square))
-print(my_square._ _ dict _ _ )
- 
- class Square:
+class Square:
     ''' creates an empty square'''
     pass
